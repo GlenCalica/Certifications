@@ -7,7 +7,7 @@ Learning Paths
 Certificates of Completion
 
 Certificate | Date Completed
-----------------------------
+------------|----------------
 Installing and Running WordPress: Locab by FlyWheel | Oct 19, 2020
 WordPress 5 Essential Training | Oct 19, 2020
 WordPress 5 Essential Training: Site Administration | Oct 19, 2020
