@@ -1,10 +1,10 @@
+# LinkedIn Learning Certificates
+
 All certifications can be found [here](https://www.lynda.com/AllCertificates/User/1995468964)
 
-Learning Paths
+## Learning Paths Completed
 - Become a Junior WordPress Developer
 - Become a Web Designer
-
-Certificates of Completion
 
 Certificate | Date Completed
 ------------|----------------
