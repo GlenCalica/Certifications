@@ -1,3 +1,7 @@
+# Udemy Courses
+
+[50 Projects in 50 Days](https://www.udemy.com/certificate/UC-1be820e2-9ff1-4dd2-8106-b741f9d9b07f/)
+
 # LinkedIn Learning Certificates
 
 All certifications can be found [here](https://www.lynda.com/AllCertificates/User/1995468964)
